@@ -1,0 +1,37 @@
+[33mcommit 6bc1514d26bf5c7174317225c8260ea5bfb95263[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: hokusysk <yuto.kameoka@hokusys.jp>
+Date:   Thu Oct 21 17:58:38 2021 +0900
+
+    git status コマンドを追加
+
+[33mcommit 7c6152ac6b70391ef6ac8e50e84b026e4ee03add[m
+Author: hokusysk <yuto.kameoka@hokusys.jp>
+Date:   Thu Oct 21 17:54:09 2021 +0900
+
+    複数ファイルのコミット
+
+[33mcommit f2ed7f1b8830fe0e2cde8265dc9cffbc85d0db2d[m
+Author: hokusysk <yuto.kameoka@hokusys.jp>
+Date:   Thu Oct 21 17:53:02 2021 +0900
+
+    second.txtを削除
+
+[33mcommit 165d0a3d9234d56cf0fcf9ff386e005869a0fff9[m
+Author: hokusysk <yuto.kameoka@hokusys.jp>
+Date:   Thu Oct 21 17:51:46 2021 +0900
+
+    second.txtを追加
+
+[33mcommit f2746711cccefc428b2d2e4e199342a6b5066f8d[m
+Author: hokusysk <yuto.kameoka@hokusys.jp>
+Date:   Thu Oct 21 17:49:28 2021 +0900
+
+    add, commit のコマンドを追記
+    
+    講座3-4を受講したため
+
+[33mcommit 143f56b9181cea0f4f4d151c4c6a68f78a449f06[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: hokusysk <yuto.kameoka@hokusys.jp>
+Date:   Thu Oct 21 17:15:28 2021 +0900
+
+    initial commit
